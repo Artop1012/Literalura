@@ -10,4 +10,5 @@ PostgreSQL para almacenar los datos.
 - Maven
 
 ## API
-La aplicación utiliza la API de Gutendex para obtener información sobre los libros. Más información sobre la API está disponible en Gutendex API.
+La aplicación utiliza la API de Gutendex para obtener información sobre los libros. 
+Más información sobre la API está disponible en [Gutendex](https://gutendex.com/).
